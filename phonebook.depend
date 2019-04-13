@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1545869093 source:c:\users\egypt_laptop\desktop\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contacts.h"
+
+1545899248 c:\users\egypt_laptop\desktop\phonebook\contacts.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545869093 source:e:\projects\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contacts.h"
+
+1554596530 e:\projects\phonebook\contacts.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
